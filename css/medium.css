@@ -17,3 +17,11 @@ body{
 .col-11 img{
     border-radius: 50%;
 }
+
+.col-sm-4 p{
+    margin-left:8%;
+}
+
+.row .img__ {
+    border-radius: 50%;
+}
